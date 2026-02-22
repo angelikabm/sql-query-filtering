@@ -1,7 +1,7 @@
 <h1>🔍 SQL Query Filtering</h1>
 
 <h2>Project Description</h2>
-My organization is strengthening system security, and part of my role is to support security monitoring, investigate potential incidents, and assist with device updates when required. To accomplish these tasks, I used SQL queries with filtering conditions to analyze login activity and identify employee devices requiring updates. The following examples demonstrate how SQL filters were applied to security-related scenarios.
+My organization is working to make their system more secure. It is my job to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. The following steps provide examples of how I used SQL with filters to perform security-related tasks.
 <br />
 
 <h2>Identifying After-Hours Failed Login Attempts</h2>
